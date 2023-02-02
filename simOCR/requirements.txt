@@ -1,6 +1,6 @@
 Flask==1.0.2
 opencv_python==4.1.0.25
-Werkzeug==0.14.1
+Werkzeug==0.15.5
 matplotlib==3.0.3
 pytesseract==0.2.7
 numpy==1.16.2
